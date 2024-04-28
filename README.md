@@ -6,9 +6,7 @@ EXAMPLE OF CRONTAB FILE
 
 `* * * * * /path/to/cairosvg /path/to/weather_pic.svg -o /path/to/projectfolder/weather_pic.png`
 
-Packeges needed to be installed:
-
-Carosvg, googletrans, bs4, datetime, pytz
+Packeges needed to be installed: Carosvg, googletrans, bs4, datetime, pytz
 
 Packages installation:
 
