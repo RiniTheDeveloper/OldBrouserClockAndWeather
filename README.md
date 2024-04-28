@@ -25,3 +25,5 @@ Packages installation:
 The project was tested on Mobile Safari 9.0
 
 To see the web page, you can visit kilinich.ru
+
+Page is in Russian
