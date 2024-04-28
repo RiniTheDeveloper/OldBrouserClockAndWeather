@@ -1,7 +1,9 @@
 # Old browser clock and weather
 
 EXAMPLE OF CRONTAB FILE
+
 `* * * * * cd /path/to/projectfolder && /path/to/weather.py`
+
 `* * * * * /path/to/cairosvg /path/to/weather_pic.svg -o /path/to/projectfolder/weather_pic.png`
 
 Packeges needed to be installed:
